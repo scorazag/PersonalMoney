@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PersonalMoney.iml" filepath="$PROJECT_DIR$/.idea/modules/PersonalMoney.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PersonalMoney.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PersonalMoney.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PersonalMoney.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PersonalMoney.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PersonalMoney.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PersonalMoney.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/PersonalMoney.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/PersonalMoney.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
